@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 Hello, World! I'm Naba Kumar Chouhan
 
-<!--
-**Naba-Kumar/Naba-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Aspiring Developer | 📚 Learning the Code | 💡 Building Dreams
 
-Here are some ideas to get you started:
+👨‍💻 I'm taking my first steps into the world of programming and software development. Every line of code is a new adventure!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently honing my skills in Reactjs, [MERN], and eager to explore more.
+
+📫 Let's connect and learn together! Feel free to reach out for advice, tips, or collaboration.
+
+GitHub: Naba-Kumar 🚀
+
+Connect with me on LinkedIn: https://in.linkedin.com/in/naba-kumar-chouhan-667b46177 🤝
+
+Excited to be part of the coding community! 💻✨
